@@ -1,7 +1,8 @@
 # prime_number_app
 
 A new Flutter project.
-Flow of This program
+
+- Flow of This program
 ![แบบแผนที่ยังไม่ได้ตั้งชื่อ](https://github.com/user-attachments/assets/6a10d25f-90b3-477f-97b1-5d43c95aace7)
 
 ## Getting Started
